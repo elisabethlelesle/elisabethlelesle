@@ -8,10 +8,7 @@ These are just some of the projects I worked on, but if you wish to discuss abou
 <p>
   <a href="https://www.linkedin.com/in/elisabeth-le-leslé-bb1589266/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
+  </a> 
 </p>
 
 <!---
