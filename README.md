@@ -11,6 +11,8 @@ These are just some of the projects I worked on, but if you wish to discuss abou
   </a> 
 </p>
 
+[Email](mailto:elisabeth.le-lesle@polytechnique.edu)
+
 <!---
 elisabethlelesle/elisabethlelesle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
