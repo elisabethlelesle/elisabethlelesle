@@ -1,10 +1,10 @@
 Elisabeth Le Leslé's GitHub:
 
 Hello! I'm currently a final year student at École Polytechnique's Bachelor, double majoring in Mathematics and Computer Science. 
-I'm very curious about Artificial Intelligence and its applications to various fields
+I'm very curious about Artificial Intelligence and its applications in various fields
 but also love learning about Data Science and Quantum Computing. 
 
-These are just some of the projects I worked on, but if you wish to discuss about them some more, contact me on: 
+These are just some of the projects I worked on, but if you wish to discuss them some more, contact me at: 
 <p>
   <a href="https://www.linkedin.com/in/elisabeth-le-leslé-bb1589266/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
