@@ -2,7 +2,7 @@ Elisabeth Le Leslé's GitHub:
 
 Hello! I'm currently a final year student at École Polytechnique's Bachelor, double majoring in Mathematics and Computer Science. 
 I'm very curious about Artificial Intelligence and its applications to various fields
-but also love learning about Cloud Computing and Quantum Computing. 
+but also love learning about Data Science and Quantum Computing. 
 
 These are just some of the projects I worked on, but if you wish to discuss about them some more, contact me on: 
 <p>
